@@ -11,6 +11,7 @@
 ## Overview
 
 Controlar um led RGB no arduino pelo celular com bluetooth.
+  [Tinkercad do projeto](https://www.tinkercad.com/things/8AjkzmKEjiw-terrific-migelo/editel?sharecode=gwWSomQH8ttt_yH8Xsy73RaZkZ4Fx5_QIbO38gi2s0s)
 
 ### Built With
 
@@ -20,5 +21,5 @@ Native React
 
 ## Contact
 
-[Repositório] (https://github.com/gabefgonc/ledrgb-remote) do aplicativo de celular
+[Repositório](https://github.com/gabefgonc/ledrgb-remote) do aplicativo de celular
 Github do desenvovedor: [Gabefgonc](https://github.com/gabefgonc)
