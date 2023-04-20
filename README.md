@@ -22,5 +22,5 @@ Native React
 
 ## Contact
 
-[Repositório](https://github.com/gabefgonc/ledrgb-remote) do aplicativo de celular
+[Repositório](https://github.com/gabefgonc/ledrgb-remote) do aplicativo de celular <br>
 Github do desenvovedor: [Gabefgonc](https://github.com/gabefgonc)
