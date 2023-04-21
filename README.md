@@ -1,26 +1,26 @@
-# RGB in arduino
+<!-- Traduzido para o português por consistência de idiomas e erros mínimos resolvidos -->
 
-## Table of Contents
+# RGB Led controlado por arduino
 
-- [RGB in arduino](#RGB-in-arduino)
-  - [Table of Contents](#table-of-contents)
-  - [Overview](#overview)
-    - [Built With](#built-with)
-  - [Contact](#contact)
+- [RGB Led controlado por arduino](#rgb-led-controlado-por-arduino)
+  - [Visão geral](#visão-geral)
+    - [Tecnologias utilizadas](#tecnologias-utilizadas)
+  - [Contato](#contato)
 
-## Overview
+## Visão geral
 
 Controlar um led RGB no arduino pelo celular com bluetooth. <br>
-  [Tinkercad do projeto](https://www.tinkercad.com/things/8AjkzmKEjiw-terrific-migelo/editel?sharecode=gwWSomQH8ttt_yH8Xsy73RaZkZ4Fx5_QIbO38gi2s0s) <br>
-  O projeto consiste em controlar um led RGB no arduino por um aplicativo de celular desenvolvido pelo [Gabefgonc](https://github.com/gabefgonc) . <br>
+[Tinkercad do projeto](https://www.tinkercad.com/things/8AjkzmKEjiw-terrific-migelo/editel?sharecode=gwWSomQH8ttt_yH8Xsy73RaZkZ4Fx5_QIbO38gi2s0s) <br>
+O projeto consiste em controlar um led RGB no arduino por um aplicativo de celular desenvolvido pelo [Gabefgonc](https://github.com/gabefgonc) . <br>
 
-### Built With
+### Tecnologias utilizadas
 
-C++
+- C++
+- Arduino
+- React Native
+- Expo
 
-Native React
+## Contato
 
-## Contact
-
-[Repositório](https://github.com/gabefgonc/ledrgb-remote) do aplicativo de celular <br>
+[Repositório](https://github.com/gabefgonc/ledrgb-remote) do aplicativo mobile <br>
 Github do desenvovedor: [Gabefgonc](https://github.com/gabefgonc)
